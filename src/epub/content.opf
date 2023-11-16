@@ -41,16 +41,15 @@
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Biography</meta>
 		<meta property="se:subject">Nonfiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A brief account of William Morris’s life and art, especially in its Oxford connections.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;William Morris (1834–1896) had significant associations with Oxford. This lecture, by one of Morris’s early biographers, sets his artistic formation and subsequent vision in the context of his social connections, especially those forged in his Oxford years.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
+		<!-- This ebook constitutes the transcription of the page scans linked. -->
 		<dc:source>https://archive.org/details/cu31924013528413</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/j-w-mackail_william-morris-and-his-circle</meta>
 		<dc:creator id="author">J. W. Mackail</dc:creator>
 		<meta property="file-as" refines="#author">Mackail, J. W.</meta>
@@ -58,10 +57,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/J._W._Mackail</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80067181</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Thomas Malton</dc:contributor>
+		<meta property="file-as" refines="#artist">Malton, Thomas</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Thomas_Malton</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr93023172</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="producer-1">David Reimer</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Reimer, David</meta>
